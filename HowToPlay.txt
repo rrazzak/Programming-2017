@@ -1,0 +1,17 @@
+Welcome to Do You Wanna Be A Human!
+
+Controls: 
+Jump: up arrow
+Double Jump: tap up arrow twice
+Left: left arrow
+Right: right arrow
+Spacebar: Shoot
+Melee Attack: Down Arrow
+Escape: Pause menu
+
+Players Start off with 10 lives.
+Obstacles will cause the player to lose 1 life
+Enemies will cause the player to lose a different amount of lives depending on the enemy.
+
+Objective of the game is to collect all 4 heart pieces. There are heart pieces hidden throughout each level. Collect all four heart pieces and you win the game! :)
+
